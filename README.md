@@ -5,7 +5,7 @@
 
 Enterprise robots.txt validator evaluating crawl budget allocation, search bot vs AI scraper governance, and sitemap linkages.
 
-Engineered and maintained by the digital performance and search engine engineering practice at **TAVARDT USA**.
+Engineered and maintained by the digital performance and search engine engineering practice at **TAVARDT**.
 
 ***
 
@@ -48,7 +48,7 @@ For real-time robots.txt testing and crawler access audits:
 
 ## Crawl Engineering and Bot Governance Advisory
 
-For enterprise crawl budgeting, bot protection, and alignment with Robots Exclusion Protocol and Web Standards, connect with **TAVARDT USA**.
+For enterprise crawl budgeting, bot protection, and alignment with Robots Exclusion Protocol and Web Standards, connect with **TAVARDT**.
 
 ***
 

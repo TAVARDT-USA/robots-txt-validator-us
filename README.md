@@ -1,4 +1,4 @@
-# Robots.txt and Crawler Directives Validator | TAVARDT USA
+# Robots.txt and Crawler Directives Validator
 
 [![Robots.txt Validator](https://img.shields.io/badge/TAVARDT-Robots.txt-5b3cf5.svg)](https://tools.tavardt.com/robots-txt-validator/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ For real-time robots.txt testing and crawler access audits:
 ## Crawl Engineering and Bot Governance Advisory
 
 For enterprise crawl budgeting, bot protection, and alignment with Robots Exclusion Protocol and Web Standards, connect with **TAVARDT USA**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.

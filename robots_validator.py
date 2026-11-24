@@ -200,7 +200,7 @@ def audit_robots(target_url):
 def main():
     parser = argparse.ArgumentParser(description=DESC)
     parser.add_argument("url", help=TARGET_PROMPT)
-    parser.add_argument("--json", action="store_true", help=JSON_HELP)
+    parser.add_argument("-json", "--json", action="store_true", help=JSON_HELP)
     
     args = parser.parse_args()
     result = audit_robots(args.url)

@@ -6,8 +6,6 @@
 
 Enterprise robots.txt validator evaluating crawl budget allocation, search bot vs AI scraper governance, and sitemap linkages.
 
-Engineered and maintained by the digital performance and search engine engineering practice at **TAVARDT**.
-
 ***
 
 ## Robots.txt Audit Capabilities
@@ -38,15 +36,6 @@ python robots_validator.py https://example.com -json
 
 ***
 
-## Online Validation Suite
-
-For real-time robots.txt testing and crawler access audits:
-
-* **Official Robots.txt Validator**
-* **TAVARDT Corporate Portal**
-
-***
-
 ## Crawl Engineering and Bot Governance Advisory
 
 For enterprise crawl budgeting, bot protection, and alignment with Robots Exclusion Protocol and Web Standards, connect with **TAVARDT**.
@@ -64,7 +53,7 @@ For enterprise crawl budgeting, bot protection, and alignment with Robots Exclus
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 

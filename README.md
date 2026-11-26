@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Robots.txt Validator and Crawler Governance Auditor
 
 [![Robots.txt Validator](https://img.shields.io/badge/TAVARDT-Robots.txt-5b3cf5.svg)](https://tools.tavardt.com/robots-txt-validator/)
